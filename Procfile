@@ -1,0 +1,1 @@
+web: gunicorn geschenk:server --timeout 10

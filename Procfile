@@ -1,1 +1,1 @@
-web: gunicorn topproducts:server --timeout 30
+web: gunicorn topproducts:server --timeout 60
